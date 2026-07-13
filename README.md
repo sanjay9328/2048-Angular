@@ -11,7 +11,7 @@ A modern implementation of the classic **2048 Puzzle Game** built with **Angular
 ## 📸 Preview
 
 > Add a screenshot here
-
+> <img src="assets/screenshots/Screenshot 2026-07-13 162959.png" width="500">
 ```
 <img width="346" height="431" alt="image" src="https://github.com/user-attachments/assets/5fdbcef2-2292-47e7-9ec9-9743b8d3f8a8" />
 
